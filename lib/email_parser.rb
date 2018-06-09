@@ -5,6 +5,7 @@
 class EmailParser
   attr_accessor :emails
   
+  #do a regular exprssion to remove the white space and stuff
   
 
 
